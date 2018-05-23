@@ -35,7 +35,7 @@
 Getting Started
 ---------------
 
-Welcome to the Nutanix Sizing Workshop! This workbook accompanies an instructor-led session that introduces Nutanix technologies sizing guidelines and best practices. You will also be introduced to the Nutanix Sizer tool, and work through multiple sizing scenarios.
+Welcome to the Nutanix Sizing Workshop! 
 
 What's New
 ++++++++++
